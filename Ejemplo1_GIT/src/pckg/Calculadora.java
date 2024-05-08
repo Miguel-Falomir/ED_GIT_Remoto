@@ -20,11 +20,6 @@ public class Calculadora {
 	public double divide(double number1, double number2) {
 		return number1 / number2;
 	}
-	
-	// random
-	public double random(double min, double max) {
-		return min + (Math.random() * ((max - min) + 1));
-	}
 
 	// comparar
 	public boolean greaterThan(double number1, double number2) {
