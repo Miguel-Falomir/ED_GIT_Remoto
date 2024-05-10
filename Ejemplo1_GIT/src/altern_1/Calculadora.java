@@ -1,4 +1,4 @@
-package pckg;
+package altern_1;
 
 public class Calculadora {
 	// sumar
