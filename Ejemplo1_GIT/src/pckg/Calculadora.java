@@ -2,7 +2,7 @@ package pckg;
 
 public class Calculadora {
 	
-	private Double discrepancia; 
+	private Double discrepancia;
 	
 	// sumar
 	public double add(double number1, double number2) {
