@@ -1,6 +1,9 @@
 package pckg;
 
 public class Calculadora {
+	
+	private Integer discrepancia;
+	
 	// sumar
 	public double add(double number1, double number2) {
 		return number1 + number2;
