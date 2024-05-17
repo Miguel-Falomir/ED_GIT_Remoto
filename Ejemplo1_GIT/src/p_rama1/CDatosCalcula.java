@@ -1,7 +1,7 @@
 package p_rama1;
 
 public class CDatosCalcula {
-	private Integer num1;
+	private Integer var1;
 	private Integer num2;
 	private Integer num3;
 	private Integer resultado;
@@ -14,17 +14,17 @@ public class CDatosCalcula {
 							Integer num3,
 							Integer resultado
 							){
-		this.num1 = num1;
+		this.var1 = num1;
 		this.num2 = num2;
 		this.num3 = num3;
 		this.resultado = resultado;
 	}
 
 	public Integer getNum1() {
-		return num1;
+		return var1;
 	}
 	public void setNum1(Integer num1) {
-		this.num1 = num1;
+		this.var1 = num1;
 	}
 
 	public Integer getNum2() {
